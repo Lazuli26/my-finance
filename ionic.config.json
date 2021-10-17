@@ -1,0 +1,8 @@
+{
+  "name": "My Finance",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react",
+  "id": "09ade2eb"
+}
